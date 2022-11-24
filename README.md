@@ -1,4 +1,4 @@
-<h1 align="center"> God of war </h1>
+<h1 align="center"> God of War Ragnarök </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pelo codeboost para ensino de tecnologias WEB.
